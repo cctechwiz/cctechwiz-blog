@@ -6,7 +6,7 @@ title: About Me
 ## Hi there 👋
 
 ### I'm Josh Maxwell
-> Building better developer tools as a Systems Engineer at Qualtrics.  
+> Improving developer experiences with better tooling as a Systems Engineer at Qualtrics.  
 > Husband, Father, Latter-day Saint, Knowledge addict. Hobbies: Game Dev, Mtn Biking, TTRPGs. (He/Him)
 
 ---
