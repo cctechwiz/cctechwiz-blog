@@ -1,8 +1,16 @@
 {
   "socialIcons": [
     {
+      "icon": "github",
+      "url": "https://github.com/cctechwiz"
+    },
+    {
       "icon": "linkedin",
       "url": "https://www.linkedin.com/in/cctechwiz/"
+    },
+    {
+      "icon": "twitter",
+      "url": "https://twitter.com/cctechwiz"
     },
     {
       "icon": "youtube",
