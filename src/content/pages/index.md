@@ -1,11 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Josh Maxwell
+tagline: Systems Engineer
+featuredImage: /assets/newprofilepic.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Building better developer tools as a Systems Engineer at Qualtrics. Husband, Father, Latter-day Saint, Knowledge addict. Hobbies: Game Dev, Mtn Biking, TTRPGs. (He/Him)
